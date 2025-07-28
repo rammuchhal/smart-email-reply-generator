@@ -23,7 +23,7 @@ function App() {
     setGeneratedReply('');
     setShowReply(false);
     try {
-      const response = await axios.post("http://email-writer-env.ap-south-1.elasticbeanstalk.com/api/email/generate", {
+      const response = await axios.post("https://email-writer-sb-h33e.onrender.com/api/email/generate", {
         emailContent,
         tone
       });
