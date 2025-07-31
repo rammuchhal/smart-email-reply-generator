@@ -1,7 +1,5 @@
 # 🚀 Smart AI Reply – Email Writer Assistant
 
-![Smart AI Reply Banner](https://photos.app.goo.gl/7d61gxRPwThXaGyS9) <!-- Optional: Replace with your actual banner path -->
-
 An AI-powered tool that generates professional, context-aware email replies — instantly.  
 Built with **Java (Spring Boot)**, **Spring AI**, **React**, and **Google Gemini API**, this project is available as both a **Chrome Extension integrated with Gmail** and a fully responsive **web application**.
 
